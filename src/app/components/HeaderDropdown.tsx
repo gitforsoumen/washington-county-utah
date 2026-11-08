@@ -1,7 +1,7 @@
 import React from 'react';
 import { ChevronDown } from 'lucide-react';
 import { Button } from './ui/button';
-import * as DropdownMenuPrimitive from "@radix-ui/react-dropdown-menu@2.1.6";
+import * as DropdownMenuPrimitive from "@radix-ui/react-dropdown-menu";
 import { cn } from './ui/utils';
 
 interface HeaderDropdownProps {
